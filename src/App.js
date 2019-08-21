@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar.js";
-import Footer from "./components/Footer.js";
+// import Footer from "./components/Footer.js";
 import Home from "./components/Home.js";
 import Projects from "./components/Projects.js";
 import Contact from "./components/Contact.js";
@@ -28,7 +28,7 @@ return  <div>
               />
             </Switch>
           </Scroll>
-          <Footer/>
+          {/* <Footer/> */}
         </div>;
 }
 

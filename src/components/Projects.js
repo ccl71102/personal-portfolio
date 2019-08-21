@@ -38,6 +38,7 @@ const Projects = () => {
                                 <h2 className="section-title">GUITAR STACK</h2>
                             </a>
                             <p>A guitar teaching tool; Guitar Stack is a full stack single page application that includes a metronome, a tuner, and the means to search and save guitar tabs per user account.</p>
+                            <p>Skills Used: React, Node.js, Javascript, Mongoose, MongoDB, CSS, HTML</p>
                             <a className= "source-code-link" href="https://github.com/ccl71102/guitar-app"><FontAwesomeIcon icon={faGithub}/> Project Source Code</a>
                             <a href="https://guitarstack.herokuapp.com/">
                                 <img className= "project-screenshot" src={guitarScreenshot} alt="guitar stack screenshot"/>
@@ -57,6 +58,7 @@ const Projects = () => {
                                 <li>A confirmation page with all the order details before placing an order.</li>
                                 <li>A cart whose contents persist if the user leaves and returns to the site.</li>
                             </ul>
+                            <p>Skills Used: React, Node.js, Javascript, Mongoose, MongoDB, CSS, HTML</p>
                             <a className= "source-code-link" href="https://github.com/ccl71102/full-stack-group-project"><FontAwesomeIcon icon={faGithub}/> Project Source Code</a>
                             <a href="https://fullstackpizza.herokuapp.com/">
                                 <img className= "project-screenshot" src={fspScreenshot} alt="full stack pizza screenshot"/>
@@ -69,6 +71,7 @@ const Projects = () => {
                             </a>
                             <p>A React based single page application that determines whether the user can afford to live in a particular area based on their annual income. It also provides additional information about the area by retrieving information from an external API provided by datausa.io.</p>
                             <p>Additional features include being fully responsive without relying on external libraries (developed with a mobile first approach), having different appearance themes that can be selected by the user, and a background that is updated in real time based on input data.</p>
+                            <p>Skills Used: React, Javascript, CSS, HTML</p>
                             <a className= "source-code-link" href="https://github.com/ccl71102/assignments/tree/master/projects/personal-react-site"><FontAwesomeIcon icon={faGithub}/> Project Source Code</a>
                             <a href="https://property-affordability-calculator.surge.sh/">
                                 <img className= "project-screenshot" src={pacScreenshot} alt="property affordability calculator screenshot"/>
@@ -80,6 +83,7 @@ const Projects = () => {
                                 <h2 className="section-title">CSS ZEN GARDEN</h2>
                             </a>
                             <p>A CSS/HTML based project that involved replicating the <a href="http://www.csszengarden.com/214/">CSS Zen Garden website</a> without simply copying the source code. Additionally, the site's responsiveness had to be mimicked.</p>
+                            <p>Skills Used: CSS, HTML</p>
                             <a className= "source-code-link" href="https://github.com/ccl71102/assignments/tree/master/projects/css-zen-garden"><FontAwesomeIcon icon={faGithub}/> Project Source Code</a>
                             <a href="https://css-zen-garden-colonlopezcarlos.surge.sh/">
                                 <img className= "project-screenshot" src={cssZenGardenScreenshot} alt="css zen garden screenshot"/>
@@ -91,6 +95,7 @@ const Projects = () => {
                                 <h2 className="section-title">BUSINESS TIME WEBSITE</h2>
                             </a>
                             <p>The first static website project done at V School. The purpose was to build a responsive website for a fictional business from scratch using media queries. As a bonus, there's some light JavaScript functionality built in the Contact section, but whatever gets put in the form will vanish into the ether.</p>
+                            <p>Skills Used: Javascript, CSS, HTML</p>
                             <a className= "source-code-link" href="https://github.com/ccl71102/assignments/tree/master/projects/business-time"><FontAwesomeIcon icon={faGithub}/> Project Source Code</a>
                             <a href="https://business-time-colonlopezcarlos.surge.sh/">
                                 <img className= "project-screenshot" src={businessTimeScreenshot} alt="business time website screenshot"/>
@@ -103,6 +108,7 @@ const Projects = () => {
                             </a>
                             <p>ParkWatch is a parking meter surveillance system designed to optimize parking meter operation by maintaining communications between parking meters, workstations, and handheld devices to determine the parking meters’ status. An alarm was added to the parking meter prototype to deter vandalism.</p>
                             <p>The workstation application’s implementation allowed users to monitor the current status of parking meters, add or remove parking meters from the system, adjust fares, view notifications generated by the system, and generate monthly status reports.</p>  
+                            <p>Skills Used: C#, SQL Server (T-SQL)</p>
                             <p className="video-links">A video demonstration of the prototype version of the project can be seen <a href="https://youtu.be/0m4rpoGSzsA">here</a> and <a href="https://youtu.be/4QlbxwkxNhE">here</a>.</p>         
                             <a style={
                                         {   
