@@ -49,6 +49,8 @@ const Home = () => {
                                 <span className="text-column-1">SQL</span>
                                 <span className="icon-column-1"><FontAwesomeIcon icon={faDatabase}/></span>
                                 <span className="text-column-1">MongoDB</span>
+                                <span className="icon-column-1"><FontAwesomeIcon icon={faJs}/></span>
+                                <span className="text-column-1">TypeScript</span>
                             </div>
                         </div>
                             <h2 className="section-title content-grid-5">RESUME</h2>
